@@ -10,4 +10,4 @@ const List<Map<String, dynamic>> gameLevels = [
   {'title': '8 x 8', 'level': 8, 'color': Colors.cyanAccent},
 ];
 
-const String gameTitle = 'MEMORY MATCH';
+const String gameTitle = 'MATCH';

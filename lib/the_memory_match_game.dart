@@ -10,7 +10,7 @@ class TheMemoryMatchGame extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: const StartUpPage(),
-      title: 'The MemoryMatch Game',
+      title: 'The Match Game',
       theme: ThemeData.dark(),
       debugShowCheckedModeBanner: false,
     );
